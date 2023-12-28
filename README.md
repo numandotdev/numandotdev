@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Numan! 👋
 
 I'm a passionate Full Stack Web Developer with a flair for creating engaging web experiences. Constantly exploring the realms of JavaScript and Python, and currently delving into Rust to expand my coding horizons and step into the WEB3 development. 🚀
 

@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**numandotdev/numandotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Web Developer with a flair for creating engaging web experiences. Constantly exploring the realms of JavaScript and Python, and currently delving into Rust to expand my coding horizons and step into the WEB3 development. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript | Python | Rust
+- HTML | CSS | React | Node.js
+- Git | VS Code | MS SharePoint
+
+## 🌱 What I'm Up To
+
+- 📚 Learning and mastering Rust (WEB3).
+- 🌐 Building intuitive web applications.
+- 🔭 Exploring new tech for innovative solutions.
+
+## 🚀 What I'm Excited About
+
+I'm enthusiastic about leveraging cutting-edge tech to build robust, user-friendly applications. I love collaborating and sharing knowledge within the developer community. Let's connect and create something awesome together!
+
+## 📫 Get in Touch
+
+- LinkedIn: (https://in.linkedin.com/in/callmenuman)
+- Twitter: (https://twitter.com/numandotdev)
+
+Feel free to reach out for collaborations, discussions, or just to say hi! 🌟

@@ -6,7 +6,6 @@ I'm a passionate Full Stack Web Developer with a flair for creating engaging web
 
 - JavaScript | Python | Rust
 - HTML | CSS | React | Node.js
-- Git | VS Code | MS SharePoint
 
 ## 🌱 What I'm Up To
 

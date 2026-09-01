@@ -19,7 +19,6 @@ I'm enthusiastic about leveraging cutting-edge tech to build robust, user-friend
 
 ## 📫 Get in Touch
 
-- LinkedIn: (https://in.linkedin.com/in/callmenuman)
-- Twitter: (https://twitter.com/numandotdev)
+- LinkedIn: (https://www.linkedin.com/in/numandotdev)
 
 Feel free to reach out for collaborations, discussions, or just to say hi! 🌟

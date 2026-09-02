@@ -14,14 +14,14 @@ I enjoy turning complex problems into clean, maintainable solutions — whether 
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    SOFTWARE ENGINEERING                     ║
+║                    SOFTWARE ENGINEERING                      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  🏗️  System Architecture      ⚙️  Backend Engineering        ║
-║  🔐  Auth & Authorization      🤖  AI & Agentic Systems      ║
-║  🗄️  Database Engineering      📡  API Development           ║
-║  🔄  Distributed Systems       📨  Event-Driven Architecture ║
-║  ⚡  Performance & Scaling      ☁️  Cloud & Infrastructure    ║
+║  🏗️  System Architecture      ⚙️  Backend Engineering       ║
+║  🔐  Auth & Authorization     🤖  AI & Agentic Systems      ║
+║  🗄️  Database Engineering     📡  API Development           ║
+║  🔄  Distributed Systems      📨  Event-Driven Architecture ║
+║  ⚡  Performance & Scaling    ☁️  Cloud & Infrastructure    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
